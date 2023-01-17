@@ -18,3 +18,5 @@ For this week’s challenge we had to create an application that generated a ran
       * Special characters ($@%&*, etc)
   * Code should validate for each input and at least one character type should be selected
   * Once prompts are answered then the password should be generated and displayed in an alert or written to the page
+
+![portfolio demo](./images/cat-sitting-web.jpg)
